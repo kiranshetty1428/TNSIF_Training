@@ -32,6 +32,7 @@ class WalletPayment extends Payment
 
 public class PaymentTest {
 
+
 	public static void main(String[] args) {
 Payment payment; //reference parent class
 		
